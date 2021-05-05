@@ -103,7 +103,7 @@ Widget forgotPassword() {
     padding: EdgeInsets.symmetric(horizontal: 10.0),
     child: TextButton(
         onPressed: () {},
-        child: Text('Forgot Pasword?',
+        child: Text('Forgot Pasword ?',
             style: GoogleFonts.montserrat(
                 textStyle: TextStyle(color: Colors.blueAccent, letterSpacing: 1.0)))),
   );
